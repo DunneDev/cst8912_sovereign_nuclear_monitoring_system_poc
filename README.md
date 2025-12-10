@@ -430,3 +430,90 @@ control and national security oversight required. This PoC serves as a high
 level blueprint for similarly regulated industries looking to adopt
 cloud-native capabilities without compromising on data residency, sovereignty,
 and comprehensive control over data.
+
+## References
+
+<p style="text-indent:-3em; padding-left:3em;">
+ <i>Athena – CNL’s new High Performance Computing Facility - Canadian Nuclear
+    Laboratories</i>. (2022, March 28). Canadian Nuclear Laboratories. <a
+    href="https://www.cnl.ca/athena/">https://www.cnl.ca/athena/</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Azure IoT Hub and Event Grid - Azure IoT Hub</i>. (2025, April).
+  Microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid">https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Canadian Nuclear Safety Commission - Mandate</i>. (2025, August 1).
+  Cnsc-Ccsn.gc.ca. <br><a
+    href="https://www.cnsc-ccsn.gc.ca/eng/about-us/mandate/">https://www.cnsc-ccsn.gc.ca/eng/about-us/mandate/</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Event-driven architecture style - Azure Architecture Center</i>. (n.d.).
+  Learn.microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven">https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Hub-spoke network topology in Azure - Azure Architecture Center</i>.
+  (2025). Microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke">https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke</a> 
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  Lanfear, T. (2025, August 1). <i>Zero Trust security in Azure</i>.
+  Learn.microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust">https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Microservice architecture style - Azure Architecture Center</i>. (2023).
+  Learn.microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices">https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices</a> 
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>N-tier architecture style - Azure Architecture Center</i>. (n.d.).
+  Learn.microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier">https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>REGDOC-3.1.1, Reporting Requirements for Nuclear Power Plants, version
+    3</i>. (2025, July 24). Cnsc-Ccsn.gc.ca. <br><a
+    href="https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/published/html/regdoc3-1-1-v3">https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/published/html/regdoc3-1-1-v3</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  Robertson, B. (2025, July 2). <i>Cloud encryption: What your cloud provider
+    covers - and what’s still on you</i>. Thales Cloud Security Products.
+  <br><a
+    href="https://cpl.thalesgroup.com/blog/encryption/cloud-encryption-key-management-byok-hyok">https://cpl.thalesgroup.com/blog/encryption/cloud-encryption-key-management-byok-hyok</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  Sodabathina, R. (2022, November 21). <i>Building event-driven architectures
+    with IoT sensor data | AWS Architecture Blog (J. Shan & M. Ulloa ,
+    Eds.)</i>. Aws.amazon.com. <br><a
+    href="https://aws.amazon.com/blogs/architecture/building-event-driven-architectures-with-iot-sensor-data/">https://aws.amazon.com/blogs/architecture/building-event-driven-architectures-with-iot-sensor-data/</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Virtual Network Pricing | Microsoft Azure</i>. (n.d.).
+  Azure.microsoft.com. <br><a
+    href="https://azure.microsoft.com/en-us/pricing/details/virtual-network/">https://azure.microsoft.com/en-us/pricing/details/virtual-network/</a> 
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>Web-Queue-Worker architecture style - Azure Architecture Center</i>.
+  (n.d.). Learn.microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/web-queue-worker">https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/web-queue-worker</a>
+</p>
+
+<p style="text-indent:-3em; padding-left:3em;">
+  <i>What is Azure IoT Edge</i>. (2025, March 21). Microsoft.com. <br><a
+    href="https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge">https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge</a>
+</p>
